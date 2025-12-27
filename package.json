@@ -1,0 +1,18 @@
+{
+  "name": "amutii-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using Baileys",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
+    "pino": "^8.21.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
